@@ -1,5 +1,5 @@
 # Programm in Python
-# Exercício 1 - Classes
+# Exercício 1 - Classes (https://github.com/JhoneSilvaL/ProgrammINPython/blob/main/Reposta_exercicio_1.py)
 Crie uma classe chamada aluno com os seguintes atributos:
 - Nome
 - Nota 1
@@ -11,7 +11,7 @@ Crie as seguintes funções (métodos):
 - Resultado, que verifica se o aluno está aprovado ou reprovado (se a média for maior ou igual a 6.0, o aluno está aprovado)
 Crie dois objetos (aluno1 e aluno2) e teste as funções
 
-# Exercício 2 - Classes
+# Exercício 2 - Classes 
 Crie uma classe para implementar uma conta corrente.
 A classe deve possuir os seguintes atributos:
 - número da conta
