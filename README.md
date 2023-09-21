@@ -9,7 +9,7 @@ Crie as seguintes funções (métodos):
 - Calcula média, retornando a média aritmética entre as notas
 - Mostra dados, que somente imprime o valor de todos os atributos
 - Resultado, que verifica se o aluno está aprovado ou reprovado (se a média for maior ou igual a 6.0, o aluno está aprovado)
-Crie dois objetos (aluno1 e aluno2) e teste as funções
+Crie dois objetos (aluno1 e aluno2) e teste as funções.
 Resposta >https://github.com/JhoneSilvaL/ProgrammINPython/blob/main/Reposta_exercicio_1.py<
 
 # Exercício 2 - Classes
