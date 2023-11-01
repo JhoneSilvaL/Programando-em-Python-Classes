@@ -1,4 +1,4 @@
-# Programm in Python
+# Prgramando em Python 'Classes'
 # Exercício 1 - Classes 
 Crie uma classe chamada aluno com os seguintes atributos:
 - Nome
